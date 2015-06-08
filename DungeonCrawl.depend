@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1433761081 source:c:\users\jan.verhagen\desktop\cpp\dungeoncrawl\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"time.h"
+
